@@ -40,9 +40,9 @@ BITM student building secure software, security automation tools, and AI agents 
 ### [<img src="https://img.shields.io/badge/SOC%20Alert%20Triage-00D9FF?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/AI-SOC-Triage)
 **AI-Assisted SOC Alert Triage Platform**
 
-Collects and analyzes security alerts, extracts suspicious indicators, enriches them with threat intelligence, and helps generate incident reports so SOC analysts can investigate faster.
+Security teams receive a constant stream of alerts and have to decide which ones matter. This tool gathers the alerts, spots suspicious details, checks them against known threat information, and drafts an incident report, so analysts spend less time sorting and more time responding.
 
-`python` `threat-intelligence` `security-automation` `incident-response`
+`python` `cybersecurity` `automation`
 
 </td>
 <td width="50%" valign="top">
@@ -50,31 +50,31 @@ Collects and analyzes security alerts, extracts suspicious indicators, enriches 
 ### [<img src="https://img.shields.io/badge/Phishing%20Detection-F97171?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/AI-Powered-Phishing-Detection-System)
 **AI-Powered Phishing Detection System**
 
-A full-stack application that uses machine learning to detect suspicious URLs and phishing emails. Each result gets a 0–100 risk score and explainable indicators showing why the content looks suspicious.
+Fake emails and links trick people into giving away passwords and money. This app checks a link or email and gives it a risk score from 0 to 100, along with plain reasons why it looks suspicious, so anyone can understand the warning.
 
-`machine-learning` `flask` `react` `postgresql`
+`machine-learning` `web-app` `cybersecurity`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [<img src="https://img.shields.io/badge/Coding%20Agent-FFB000?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/Coding-agent)
-**Sandboxed AI Coding Agent**
+### [<img src="https://img.shields.io/badge/API%20Security%20Tester-2DBA22?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/API-scan)
+**API Security Scanner**
 
-Built directly on the Anthropic API with no framework. Given a task, it reads the project, edits files, runs tests, and iterates within step and token limits. Safety controls include path restrictions, secret-file blocking, command allowlists, and confirmation requirements.
+Apps share data through connections called APIs, and weak ones can expose private information. This tool checks those connections for common problems such as weak login checks, missing protections, and poor error handling. It only tests after getting permission, and it saves every finding for review.
 
-`ai-agents` `anthropic-api` `python` `developer-automation`
+`python` `api-security` `cybersecurity`
 
 </td>
 <td width="50%" valign="top">
 
-### [<img src="https://img.shields.io/badge/API%20Security%20Tester-2DBA22?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/API-scan)
-**API Security Scanner**
+### [<img src="https://img.shields.io/badge/Coding%20Agent-FFB000?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/Coding-agent)
+**Safe AI Coding Helper**
 
-Scans API endpoints for common issues in authentication, authorization, input validation, error handling, security headers, and CORS. It requires explicit permission before testing an API and stores findings for analysis.
+An AI helper that takes a coding task, reads the project, makes changes, tests them, and keeps improving until the task is done. It is built to be safe: it stays within allowed folders, cannot open secret files, runs only approved commands, asks before risky actions, and stops after a set number of steps.
 
-`api-security` `fastapi` `postgresql` `docker`
+`ai-agents` `python` `safety`
 
 </td>
 </tr>
@@ -84,9 +84,9 @@ Scans API endpoints for common issues in authentication, authorization, input va
 ### <img src="https://img.shields.io/badge/Triad-9B6BFF?style=for-the-badge&logoColor=0A0E27" />
 **Release Readiness System**
 
-A multi-agent system that evaluates whether a full-stack repository is ready for release, built for CI-friendly workflows. **Tracker** runs tests, linters, and dependency checks. **Predictor** evaluates risk. **Commander** makes a `GO` or `HOLD` decision and can apply safe automated fixes.
+Releasing unfinished or risky software causes problems for the people who use it. Triad is a team of three AI helpers that checks whether a project is ready to go out. One runs the checks, one estimates the risk, and one makes the final **GO** or **HOLD** call and can apply safe fixes.
 
-`multi-agent` `ci-cd` `risk-analysis` `python` `node.js`
+`ai-agents` `python` `automation`
 
 </td>
 <td width="50%" valign="top">
@@ -94,29 +94,13 @@ A multi-agent system that evaluates whether a full-stack repository is ready for
 ### [<img src="https://img.shields.io/badge/SkillSwap%20Lite-00D9FF?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/Skillswap)
 **Community Skill Sharing App**
 
-A small React app where users post a skill to teach and a skill to learn, browse and search swaps by name or skill, and delete swaps. Data persists in browser `localStorage`, with no account or backend required.
+A simple website that helps neighbors learn from each other. People post a skill they can teach and a skill they want to learn, then search for a match. Everything is saved in the browser, so nobody needs to create an account.
 
-`react` `localstorage` `frontend`
+`react` `community` `web-app`
 
 </td>
 </tr>
 </table>
-
-## ⚙️ STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,fastapi,flask,postgres,react,docker,git,github&theme=dark" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Requests-2E7D32?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
-</div>
 
 ## 💼 EXPERIENCE
 
