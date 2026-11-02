@@ -169,15 +169,6 @@ An AI helper that takes a coding task, reads the project, makes changes, tests t
 
 * **IT Assistant** | Hetauda Academy Residential Secondary Boarding School (3 months): supported day-to-day technical operations and helped with IT tasks across the school
 
-## 🏆 PROGRAMS & LEARNING
-
-* **Google Cloud Gen AI Academy**: APAC Edition, Cohort 2
-* **VRIT Jobs**: Real Cyber Attack Simulation Workshop
-* **Dlytica**: Data & AI Foundation Program
-* **i-HUB Innovation Campaign / Startup Incubation Program**
-* **I-HUB / Udhyami Pathshala**: Cohort II
-* **Microsoft Data & AI learning programs**
-
 ## 📌 CURRENTLY LEARNING
 
 `Advanced Python` `Backend Development` `Application Security` `API Security` `AI & Machine Learning` `AI Agents` `Web Development` `Databases` `Secure Software Development`
