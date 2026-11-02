@@ -116,14 +116,6 @@ A simple website that helps neighbors learn from each other. People post a skill
 * **I-HUB / Udhyami Pathshala**: Cohort II
 * **Microsoft Data & AI learning programs**
 
-## 💡 ENTREPRENEURSHIP
-
-* **EXE_STYLES:** Co-founded a clothing business project while studying science, gaining experience in teamwork, client interaction, and business operations.
-* **I-HUB programs:** Developed and presented business ideas and took part in youth innovation activities.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
-</div>
 
 ## 📌 CURRENTLY LEARNING
 
