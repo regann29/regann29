@@ -37,6 +37,32 @@ BITM student building secure software, security automation tools, and AI agents 
 <tr>
 <td width="50%" valign="top">
 
+### [<img src="https://img.shields.io/badge/LifeOS-76B900?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/LifeOS)
+**Private Personal AI Assistant**
+
+Most AI assistants forget you between chats and send your private information to outside companies. LifeOS is a personal assistant that remembers what matters to you, keeps your information private, and can help with tasks on your own computer. Built for a Personal AI hackathon track.
+
+`ai-assistant` `privacy` `python`
+
+**Status:** working demo, being improved
+
+</td>
+<td width="50%" valign="top">
+
+### [<img src="https://img.shields.io/badge/PatchArena-F97171?style=for-the-badge&logoColor=0A0E27" />](https://gleam-path-web.lovable.app)
+**AI Security Fixing Tournament**
+
+Security problems in software can take a long time to fix. PatchArena is an AI project that writes and tests fixes for those problems, using a tournament-style process to find the best one. Built for the AMD Developer Hackathon.
+
+`ai-agents` `security` `hackathon`
+
+**Status:** working demo site, being improved
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [<img src="https://img.shields.io/badge/SOC%20Alert%20Triage-00D9FF?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/AI-SOC-Triage)
 **AI-Assisted SOC Alert Triage Platform**
 
@@ -44,19 +70,9 @@ Security teams receive a constant stream of alerts and have to decide which ones
 
 `python` `cybersecurity` `automation`
 
-</td>
-<td width="50%" valign="top">
-
-### [<img src="https://img.shields.io/badge/Phishing%20Detection-F97171?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/AI-Powered-Phishing-Detection-System)
-**AI-Powered Phishing Detection System**
-
-Fake emails and links trick people into giving away passwords and money. This app checks a link or email and gives it a risk score from 0 to 100, along with plain reasons why it looks suspicious, so anyone can understand the warning.
-
-`machine-learning` `web-app` `cybersecurity`
+**Status:** finished and working
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [<img src="https://img.shields.io/badge/API%20Security%20Tester-2DBA22?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/API-scan)
@@ -66,41 +82,88 @@ Apps share data through connections called APIs, and weak ones can expose privat
 
 `python` `api-security` `cybersecurity`
 
-</td>
-<td width="50%" valign="top">
-
-### [<img src="https://img.shields.io/badge/Coding%20Agent-FFB000?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/Coding-agent)
-**Safe AI Coding Helper**
-
-An AI helper that takes a coding task, reads the project, makes changes, tests them, and keeps improving until the task is done. It is built to be safe: it stays within allowed folders, cannot open secret files, runs only approved commands, asks before risky actions, and stops after a set number of steps.
-
-`ai-agents` `python` `safety`
+**Status:** finished and working
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Triad-9B6BFF?style=for-the-badge&logoColor=0A0E27" />
-**Release Readiness System**
+### [<img src="https://img.shields.io/badge/Phishing%20Detection-FFB000?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/AI-Powered-Phishing-Detection-System)
+**AI-Powered Phishing Detection System**
 
-Releasing unfinished or risky software causes problems for the people who use it. Triad is a team of three AI helpers that checks whether a project is ready to go out. One runs the checks, one estimates the risk, and one makes the final **GO** or **HOLD** call and can apply safe fixes.
+Fake emails and links trick people into giving away passwords and money. This app checks a link or email and gives it a risk score from 0 to 100, along with plain reasons why it looks suspicious, so anyone can understand the warning.
 
-`ai-agents` `python` `automation`
+`machine-learning` `web-app` `cybersecurity`
+
+**Status:** finished and working
 
 </td>
 <td width="50%" valign="top">
 
-### [<img src="https://img.shields.io/badge/SkillSwap%20Lite-00D9FF?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/Skillswap)
-**Community Skill Sharing App**
+### <img src="https://img.shields.io/badge/SignBridge%20AI-9B6BFF?style=for-the-badge&logoColor=0A0E27" />
+<!-- To link the demo, wrap the badge above like this: ### [<img src="..." />](YOUR-DEMO-LINK) -->
+**Sign Language to Speech Assistant**
 
-A simple website that helps neighbors learn from each other. People post a skill they can teach and a skill they want to learn, then search for a match. Everything is saved in the browser, so nobody needs to create an account.
+People who use sign language can find it hard to be understood by those who do not know it. This prototype turns hand signs into spoken words and also responds to voice commands, helping make everyday conversations more accessible.
 
-`react` `community` `web-app`
+`accessibility` `ai` `web-app`
+
+**Status:** working demo, being improved
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/DocuMind-00D9FF?style=for-the-badge&logoColor=0A0E27" />
+<!-- To link the demo, wrap the badge above like this: ### [<img src="..." />](YOUR-DEMO-LINK) -->
+**AI Research Analyst**
+
+Finding answers across many documents takes hours. DocuMind is a team of AI helpers that reads your documents, searches the web when needed, checks its own answers, and puts everything into a clear report you can download.
+
+`ai-agents` `research` `python`
+
+**Status:** working demo, being improved
+
+</td>
+<td width="50%" valign="top">
+
+### [<img src="https://img.shields.io/badge/Coding%20Agent-9B6BFF?style=for-the-badge&logoColor=0A0E27" />](https://github.com/regann29/Coding-agent)
+**Safe AI Coding Helper**
+
+An AI helper that takes a coding task, reads the project, makes changes, tests them, and keeps improving until the task is done. It is built to be safe: it stays within allowed folders, cannot open secret files, runs only approved commands, asks before risky actions, and stops after a set number of steps.
+
+`ai-agents` `python` `safety`
+
+**Status:** working demo, being improved
 
 </td>
 </tr>
 </table>
+
+**More projects:** [SkillSwap Lite](https://github.com/regann29/Skillswap), a simple site where neighbors swap skills they can teach and want to learn, and Triad, a team of three AI helpers that checks whether software is ready to release.
+
+## 🏁 HACKATHONS
+
+* **Personal AI Track Hackathon** (NVIDIA Nemotron on Nebius Token Factory): built [LifeOS](https://github.com/regann29/LifeOS). Results not announced yet.
+* **AMD Developer Hackathon: ACT III** (lablab.ai): built [PatchArena](https://gleam-path-web.lovable.app). Results not announced yet.
+
+## ⚙️ STACK
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,js,fastapi,flask,postgres,react,docker,git,github&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Requests-2E7D32?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,12,12&height=3&width=1000"/>
+</div>
 
 ## 💼 EXPERIENCE
 
@@ -108,14 +171,12 @@ A simple website that helps neighbors learn from each other. People post a skill
 
 ## 🏆 PROGRAMS & LEARNING
 
-* **AMD Developer Hackathon**: AI agent project and developer technologies
 * **Google Cloud Gen AI Academy**: APAC Edition, Cohort 2
 * **VRIT Jobs**: Real Cyber Attack Simulation Workshop
 * **Dlytica**: Data & AI Foundation Program
 * **i-HUB Innovation Campaign / Startup Incubation Program**
 * **I-HUB / Udhyami Pathshala**: Cohort II
 * **Microsoft Data & AI learning programs**
-
 
 ## 📌 CURRENTLY LEARNING
 
